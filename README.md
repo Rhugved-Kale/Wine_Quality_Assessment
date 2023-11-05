@@ -1,4 +1,4 @@
-# Wine_Quality_Assessment
+# Assessing Wine Quality
 
 This project aims to predict the quality of wine based on various chemical compositions and features. It involves the use of machine learning algorithms to analyze and classify the quality of wine based on its composition. The dataset used in this project contains various attributes related to the chemical properties of wine, such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, sulphates, alcohol, and quality.
 
