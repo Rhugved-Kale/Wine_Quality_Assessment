@@ -8,4 +8,4 @@ Following the exploratory data analysis, we preprocess the data by applying feat
 
 Based on the results of the classification algorithms, the Support Vector Classifier is identified as the model with the highest accuracy. Therefore, we use the Support Vector Classifier to make predictions on the test dataset.
 
-Dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+Dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset (wine_quality_data.csv)
