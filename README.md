@@ -4,8 +4,6 @@ This project aims to predict the quality of wine based on various chemical compo
 
 In this project, we begin by exploring the dataset and performing initial data preprocessing tasks, including handling missing values and removing duplicates. Next, we conduct an exploratory data analysis to understand the relationships between different features and the wine quality. We visualize these relationships using various plots such as bar plots and a heatmap to identify correlations between different attributes.
 
-Following the exploratory data analysis, we preprocess the data by applying feature scaling using the StandardScaler. Subsequently, we split the dataset into training and testing sets using the train_test_split function. We then apply various classification algorithms, including Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, and Support Vector Classifier, to predict the wine quality.
+Following the exploratory data analysis, we preprocess the data by applying feature scaling using the StandardScaler. Subsequently, we split the dataset into training and testing sets using the train_test_split function. We then apply various classification algorithms, including Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, and Support Vector Classifier, to predict the wine quality. Based on the results of the classification algorithms, the Support Vector Classifier is identified as the model with the highest accuracy. Therefore, we use the Support Vector Classifier to make predictions on the test dataset.
 
-Based on the results of the classification algorithms, the Support Vector Classifier is identified as the model with the highest accuracy. Therefore, we use the Support Vector Classifier to make predictions on the test dataset.
-
-Dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset (wine_quality_data.csv)
+Dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
